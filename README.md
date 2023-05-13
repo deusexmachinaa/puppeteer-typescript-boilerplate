@@ -6,6 +6,8 @@ I just wanted to use TypeScript, instead of JavaScript, to crawl websites with P
 
 this origined by https://github.com/sosmii/puppeteer-typescript-boilerplate.git
 
+and mine is using some more library
+
 ## Usage for origin
 1. do this:
 ```
